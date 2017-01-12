@@ -1,9 +1,9 @@
 require "formula"
 
 class P5 < Formula
-  url 'https://raw.githubusercontent.com/hamstergene/p5/v0.7/p5'
-  sha256 '4d5ab54afea7c09d219b77dbd78af3d36b9c9bf671da2c6c57d84bac21153707'
-  version '0.7'
+    url 'https://raw.githubusercontent.com/hamstergene/p5/v0.7.1/p5'
+  sha256 '891954d9e372aadbbab12892915286f3412872521f0190f9081d5423f0be254c'
+  version '0.7.1'
   homepage 'https://github.com/hamstergene/p5'
 
   depends_on "python3"
