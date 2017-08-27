@@ -1,9 +1,9 @@
 require 'formula'
 
 class SymbolicateCrash < Formula
-  url 'https://raw.githubusercontent.com/hamstergene/symbolicate-crash/v0.6.2/symbolicate-crash'
-  sha256 '83dfac491052da58e33cc1bac9778711078b7d20c23bedb22fbd1d88cd2555e8'
-  version '0.6.2'
+  url 'https://raw.githubusercontent.com/hamstergene/symbolicate-crash/v0.7/symbolicate-crash'
+  sha256 'c3e8d06bee2cf241b1bd732661b86a076bc8795633887a2e8f1a3cc8bcae05ad'
+  version '0.7'
   homepage 'https://github.com/hamstergene/symbolicate-crash'
 
   bottle :unneeded
