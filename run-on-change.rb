@@ -4,8 +4,6 @@ class RunOnChange < Formula
   version '0.1'
   homepage 'https://github.com/hamstergene/scripts/tree/master/run-on-change'
 
-  bottle :unneeded
-
   def install
     bin.install "run-on-change"
   end

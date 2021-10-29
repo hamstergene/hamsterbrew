@@ -6,8 +6,6 @@ class SymbolicateCrash < Formula
   version '0.8'
   homepage 'https://github.com/hamstergene/symbolicate-crash'
 
-  bottle :unneeded
-
   def install
     bin.install "symbolicate-crash"
   end

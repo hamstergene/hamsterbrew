@@ -8,8 +8,6 @@ class P5 < Formula
 
   depends_on "python3"
 
-  bottle :unneeded
-
   def install
     bin.install "p5"
   end
