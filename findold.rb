@@ -9,8 +9,6 @@ class Findold < Formula
 
     depends_on "python3"
 
-    bottle :unneeded
-
     def install
         bin.install "findold"
     end
