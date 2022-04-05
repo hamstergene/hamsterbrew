@@ -1,9 +1,9 @@
 require 'formula'
 
 class SymbolicateCrash < Formula
-  url 'https://github.com/hamstergene/symbolicate-crash.git', :tag => 'v0.8'
-  sha256 'cc3c9a45608d70cccb0439256ae39ed9505371cd12733c2325ffcfd8224e0dbc'
-  version '0.8'
+  url 'https://github.com/hamstergene/symbolicate-crash.git', :tag => 'v0.9'
+  sha256 'a5caf8e2297f44d40c71833f59ff7f67ad9b3bfc5747886a3f52ba5bdebe8c51'
+  version '0.9'
   homepage 'https://github.com/hamstergene/symbolicate-crash'
 
   def install
